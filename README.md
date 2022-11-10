@@ -1,5 +1,5 @@
 # Teachable-Machine
-<h1 style="color: #44AEFB;"> 👩🏻‍💻 IREM ASLAN </h1>
+<h1 style="color: #44AEFB;">📌 AIN1003 Assignment-1 </h1>
 
 ![IMG_9501](https://user-images.githubusercontent.com/116390565/200967236-d6b0bad5-108c-4207-9bb9-1150f6397cd4.gif)
 
@@ -10,7 +10,7 @@
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;" >
 NAME AND SURNAME: İREM ASLAN
 
-STUDENT NUMBER: 2101956
+STUDENT NUMBER: 210****
 
 DEPARTMENT: ARTIFICIAL INTELLIGENCE ENGINEERING
 
@@ -57,3 +57,42 @@ The artificial intelligence model I developed solves the problem of distinguishi
 </div>
 </p>    
 <br>
+
+<!-- Q3 -->
+
+<h2 style="color: #44AEFB"> ❓QUESTION 3: How did you get the data you used to train the model? What "classes" are there in your classification problem? 
+
+</h2>
+
+</h2>
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;" >
+
+I used the objects around me to train the model. My classification problem involves a notebook, wallet, glasses case, pen and coffee cup, respectively.
+
+
+<br>
+<br>
+<div align="center">
+
+</div>
+</p>    
+<br>
+<!-- Q4 -->
+
+<h2 style="color: #44AEFB"> ❓QUESTION 4: During the training of the model, how did the "Teachable Machine Training Parameters" contribute to the model? Discuss what kind of differences occurred when you changed the parameters. 
+
+</h2>
+
+</h2>
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;" >
+
+My goal in this project was to measure the knowledge of the artificial intelligence system. Can it detect objects? Can it distinguish between them? And after introducing the objects to the artificial intelligence, it was able to distinguish them very easily.
+
+<br>
+<br>
+<div align="center">
+
+</div>
+</p>    
+<br>
+
