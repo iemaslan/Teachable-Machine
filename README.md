@@ -120,15 +120,8 @@ My goal in this project was to measure the knowledge of the artificial intellige
 <img width="450" alt="Ekran Resmi 2022-11-09 22 33 59" src="https://user-images.githubusercontent.com/116390565/200977115-34e5290f-671d-4f74-bf21-ac0a6547200d.png" align="left"/>
 
 
-<div class="stats" align="center">
 
 <img width="450" alt="Ekran Resmi 2022-11-09 22 34 19" src="https://user-images.githubusercontent.com/116390565/200977177-9d987ff3-4acc-4ebd-860f-173706f98baf.png" align="right"/>
-
-
-<!-- Q5.2 -->
-
-<h2 style="color: #44AEFB"> ❓QUESTION 5.2: Positive/Correct Results of the model
-
 
 
 
