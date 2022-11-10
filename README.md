@@ -105,19 +105,47 @@ My goal in this project was to measure the knowledge of the artificial intellige
 </h2>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;" >
 
-<img width="512" alt="Ekran Resmi 2022-11-09 22 31 44" src="https://user-images.githubusercontent.com/116390565/201205149-ef600ebc-8272-4d5d-baa4-7088c0e451e0.png">
+<table class="image-table">
+<tbody>
+<tr>
+<td>
+<img width="512" src="https://user-images.githubusercontent.com/116390565/201205149-ef600ebc-8272-4d5d-baa4-7088c0e451e0.png" alt="Ekran Resmi 2022-11-09 22 31 44">
+</td>
+<td>
+<img width="512" src="https://user-images.githubusercontent.com/116390565/201205179-3c14233b-79f3-454a-be90-d9c2757bf002.png" alt="Ekran Resmi 2022-11-09 22 32 32">
+</td>
+</tr>
+</tbody>
+</table>
 
-<img width="512" alt="Ekran Resmi 2022-11-09 22 32 32" src="https://user-images.githubusercontent.com/116390565/201205179-3c14233b-79f3-454a-be90-d9c2757bf002.png">
+<table class="image-table">
+<tbody>
+<tr>
+<td>
+<img width="512" src="https://user-images.githubusercontent.com/116390565/201205193-1751017e-7402-47e4-9c3b-6c451d6ab2cd.png" alt="Ekran Resmi 2022-11-09 22 33 40">
+</td>
+<td>
+<img width="512" src="https://user-images.githubusercontent.com/116390565/201205236-ba097db8-cdfc-4bf5-a292-529a012f389a.png" alt="Ekran Resmi 2022-11-09 22 32 55">
+</td>
+</tr>
+</tbody>
+</table>
 
-<img width="512" alt="Ekran Resmi 2022-11-09 22 33 40" src="https://user-images.githubusercontent.com/116390565/201205193-1751017e-7402-47e4-9c3b-6c451d6ab2cd.png">
+<table class="image-table">
+<tbody>
+<tr>
+<td>
+<img width="512" src="https://user-images.githubusercontent.com/116390565/201205273-2e5577ac-eac2-4582-a3c8-a2427b303755.png" alt="Ekran Resmi 2022-11-09 22 33 59">
+</td>
+<td>
+<img width="512" src="https://user-images.githubusercontent.com/116390565/201205287-1472cbc5-96cd-4aa3-8303-b850ec6b4c17.png" alt="Ekran Resmi 2022-11-09 22 34 19">
+</td>
+</tr>
+</tbody>
+</table>
 
-<img width="512" alt="Ekran Resmi 2022-11-09 22 32 55" src="https://user-images.githubusercontent.com/116390565/201205236-ba097db8-cdfc-4bf5-a292-529a012f389a.png">
 
-<img width="512" alt="Ekran Resmi 2022-11-09 22 33 59" src="https://user-images.githubusercontent.com/116390565/201205273-2e5577ac-eac2-4582-a3c8-a2427b303755.png">
-
-<img width="512" alt="Ekran Resmi 2022-11-09 22 34 19" src="https://user-images.githubusercontent.com/116390565/201205287-1472cbc5-96cd-4aa3-8303-b850ec6b4c17.png">
-
-<!-- Q1 -->
+<!-- Q5.2 -->
 
 <h2 style="color: #44AEFB"> ❓QUESTION 5.2: Positive/Correct Results of the model
  </h2>
@@ -164,10 +192,3 @@ My goal in this project was to measure the knowledge of the artificial intellige
 </div>
 </p>    
 <br>
-
-
-
-
-
-
-
