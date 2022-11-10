@@ -20,7 +20,7 @@ DEPARTMENT: ARTIFICIAL INTELLIGENCE ENGINEERING
 
 </div>
 </p>    
-<br>
+
 <!-- Q1 -->
 
 <h2 style="color: #44AEFB"> ❓QUESTION 1: What is the Teachable Machine platform? What is it used for? How does it work? 
@@ -28,6 +28,8 @@ DEPARTMENT: ARTIFICIAL INTELLIGENCE ENGINEERING
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;" >
 
 Teachable Machine is Google’s AutoML platform which is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone. You train a computer to recognize your images, sounds, and poses without writing any machine learning code. Then, use your model in your own projects, sites, apps, and more.
+
+
 After doing the same, you can download the trained model and use it for your applications. And also accessible to everyone.
 
 <br>
@@ -95,3 +97,32 @@ My goal in this project was to measure the knowledge of the artificial intellige
 </div>
 </p>    
 <br>
+<!-- Q5.1 -->
+
+<h2 style="color: #44AEFB"> ❓QUESTION 5.1:  Images of the training moment of the model I created
+</h2>
+
+</h2>
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 20px;" >
+
+<img width="470" alt="Ekran Resmi 2022-11-09 22 31 44" src="https://user-images.githubusercontent.com/116390565/200973948-56fe3234-775e-4667-b0ec-bde1078f9ea0.png" align="left"/>
+
+<img width="480" alt="Ekran Resmi 2022-11-09 22 32 32" src="https://user-images.githubusercontent.com/116390565/200974153-c14b783e-cf2a-424a-9060-92c5e5ce45a1.png" align="right"/>
+
+<img width="470" alt="Ekran Resmi 2022-11-09 22 33 40" src="https://user-images.githubusercontent.com/116390565/200976816-6c52f701-0dfa-4cf1-b5bd-3fef5cc02693.png" align="left"/>
+
+<img width="480" alt="Ekran Resmi 2022-11-09 22 32 55" src="https://user-images.githubusercontent.com/116390565/200976680-c0e992f7-ccda-4af5-97a9-72b930c7678d.png" align="right"/>
+
+<img width="470" alt="Ekran Resmi 2022-11-09 22 33 59" src="https://user-images.githubusercontent.com/116390565/200977115-34e5290f-671d-4f74-bf21-ac0a6547200d.png" align="left"/>
+
+<img width="480" alt="Ekran Resmi 2022-11-09 22 34 19" src="https://user-images.githubusercontent.com/116390565/200977177-9d987ff3-4acc-4ebd-860f-173706f98baf.png" align="right"/>
+
+
+<!-- Q5.2 -->
+
+<h2 style="color: #44AEFB"> ❓QUESTION 5.2: Positive/Correct Results of the model
+
+
+
+
+
