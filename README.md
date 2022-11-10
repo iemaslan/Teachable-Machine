@@ -95,4 +95,3 @@ My goal in this project was to measure the knowledge of the artificial intellige
 </div>
 </p>    
 <br>
-
